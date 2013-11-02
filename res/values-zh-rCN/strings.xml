@@ -1903,4 +1903,7 @@
     <string name="regulatory_info_text" msgid="5623087902354026557"></string>
     <!-- Roaming Date Settings -->
     <string name="label_global_roaming_settings">国际漫游设置</string>
+    <!-- Traffic -->
+    <string name="statusbar_show_traffic_title">显示网速</string>
+    <string name="statusbar_show_traffic_summary">在状态栏上显示网速状态.</string>
 </resources>

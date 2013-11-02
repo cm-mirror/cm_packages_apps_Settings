@@ -4629,4 +4629,7 @@
     <string name="regulatory_info_text"></string>
     <!-- Roaming Date Settings -->
     <string name="label_global_roaming_settings">Global roaming settings</string>
+    <!-- Traffic -->
+    <string name="statusbar_show_traffic_title">Show traffic</string>
+    <string name="statusbar_show_traffic_summary">Show traffic stats in status bar.</string>
 </resources>
